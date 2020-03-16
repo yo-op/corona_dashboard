@@ -20,8 +20,6 @@
   </a>
 </p>
 
-[![Codemagic build status]()]()
-
 ## Contents
 
 - [Features](#-features)
