@@ -47,9 +47,9 @@
 
 ## 🎉 Develop
 
-## Contributing
+## 🏋️‍Contributing
 
-## 🤷‍♀️ FAQ
+## 🤷‍ FAQ
 
 ## 📄 License
 
